@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FinacialTransaction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7280",
+      "launchBrowser": false
+    }
+  }
+}
